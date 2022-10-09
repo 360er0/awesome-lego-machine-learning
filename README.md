@@ -23,6 +23,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 ### Papers
 * [How to sort them? A network for LEGO bricks classification [2022.07]](https://www.iccs-meeting.org/archive/iccs2022/papers/133520608.pdf) - The paper presents a comparison of 28 models used for image classification trained to recognize 447 different LEGO bricks.
 * [Hierarchical 2-step neural-based LEGO bricks detection and labeling [2021.04]](https://mostwiedzy.pl/en/publication/hierarchical-2-step-neural-based-lego-bricks-detection-and-labeling,155119-1) - The paper proposes two-step system for identifying LEGO bricks -- detection and classification. The model is limited to recognizing only 10 different parts.
+* [Lego Recognition Tool [2018.03]](https://robo4you.at/publications/Lego.pdf) - This diploma thesis' describing the process to develop a machine, which is capable of identifying Lego bricks and sorting them into boxes.
 
 ### Datasets
 * [Video of LEGO bricks on conveyor belt [2022.01]](https://mostwiedzy.pl/en/open-research-data-series/video-of-lego-bricks-on-conveyor-belt,202011132226557715481-0/catalog) - The dataset contains videos of LEGO bricks moving on a white conveyor belt to train a classifier for sorting machine.
