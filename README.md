@@ -23,7 +23,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 ### Papers
 * [How to sort them? A network for LEGO bricks classification [2022.07]](https://www.iccs-meeting.org/archive/iccs2022/papers/133520608.pdf) - The paper presents a comparison of 28 models used for image classification trained to recognize 447 different LEGO bricks.
 * [Hierarchical 2-step neural-based LEGO bricks detection and labeling [2021.04]](https://mostwiedzy.pl/en/publication/hierarchical-2-step-neural-based-lego-bricks-detection-and-labeling,155119-1) - The paper proposes two-step system for identifying LEGO bricks -- detection and classification. The model is limited to recognizing only 10 different parts.
-* [Lego Recognition Tool [2018.03]](https://robo4you.at/publications/Lego.pdf) - This diploma thesis' describing the process to develop a machine, which is capable of identifying Lego bricks and sorting them into boxes.
+* [Lego Recognition Tool [2018.03]](https://robo4you.at/publications/Lego.pdf) - The diploma thesis that describes the process to develop a machine, which is capable of identifying Lego bricks and sorting them into boxes.
 
 ### Datasets
 * [Video of LEGO bricks on conveyor belt [2022.01]](https://mostwiedzy.pl/en/open-research-data-series/video-of-lego-bricks-on-conveyor-belt,202011132226557715481-0/catalog) - The dataset contains videos of LEGO bricks moving on a white conveyor belt to train a classifier for sorting machine.
@@ -35,6 +35,9 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ### Rendering Parts
 * [Rendering LDraw Parts Images for Rebrickable [2018.10]](https://bricksafe.com/files/Simon/guide/guide.html) - Comprehensive guide describing how Rebrickable rendered their images.
+* [Lego multi object detection [2021.11]](https://github.com/mantyni/Multi-object-detection-lego) - Script to generate renders of LEGO parts and corresponding bounding boxes. Uses Python and Blender.
+* [BrickRegistration [2021.11]](https://github.com/GistNoesis/BrickRegistration) - A tool to generate synthetic 3d scenes with LEGO parts and their segmentation information.
+* [Lego Renderer for ML Projects [2020.01]](https://github.com/WHSnyder/LegoTrainingRenderer) - A set of Python scripts/Blender utilities for rendering Lego scenes for use in deep learning/computer vision projects. Includes a basic scene with a tracked camera, scripts for rendering images, normals, masks of Lego combinations, and utilities for recording the positions of special features on different pieces (studs, corners, holes) easily.
 
 ### Understanding Part Ids
 * [Understanding LEGO part numbers [2020.10]](https://brickset.com/article/54327/understanding-lego-part-numbers)
@@ -43,12 +46,27 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Bricklink Item Numbers](https://www.bricklink.com/help.asp?helpID=168)
 
 ## Generating Models
-* [Brick Yourself within 3 Minutes [2022.05]](https://air.tsinghua.edu.cn/en/Brick-Yourself-within-3-Minutes.pdf) - Given the input portrait, it uses several deep neural networks to extract the attributes to describe the human appearance shown in the image. Built on these attributes, the model generates the corresponding uncolored brick model by iteratively searching for brick component with the coordinate descent algorithm. Finally, it assigns a color to every brick to get the final brick model.
+### Papers
+* [Brick Yourself within 3 Minutes [2022.05]](https://air.tsinghua.edu.cn/en/Brick-Yourself-within-3-Minutes.pdf) - Given the input portrait, it uses several deep neural networks to extract the attributes to describe the human appearance shown in the image. Built on these attributes, the model generates the corresponding uncolored brick model by iteratively searching for brick components with the coordinate descent algorithm. Finally, it assigns a color to every brick to get the final brick model.
+* [Image2Lego: Customized LEGO® Set Generation from Images [2021.08]](https://arxiv.org/abs/2108.08477) - The system takes an image as an input, encodes it as embedding, generates a voxelized 3D model, and finally convert it into LEGO bricks. The model jointly trains a 3D model autoencoder and a 2D-to-3D encoder.
+* [Automatic Generation of Vivid LEGO Architectural Sculptures [2019]](http://staff.ustc.edu.cn/~xjchen99/2019cgf-lego-zhou.pdf) - It introduces an automatic system to convert an architectural model into a LEGO sculpture while preserving the original model’s shape features like repeating components, shape details and planarity.
+* [Legolization: Optimizing LEGO Designs [2015]](http://www.cs.columbia.edu/~yonghao/siga15/luo-Legolization.pdf) - It converts a 3D model into a voxelized 3D model, and then into LEGO bricks. The paper focuses on optimizing the physical stability of the generated design.
+* [Survey on Automated LEGO Assembly Construction [2014]](https://core.ac.uk/download/pdf/295560271.pdf) - The survey paper on converting 3D models into LEGO models. 
 
 ### Datasets
-* [Official Lego sets made in LDraw](https://www.eurobricks.com/forum/index.php?/forums/topic/48285-key-topic-official-lego-sets-made-in-ldraw/) - Links to over 2000 LEGO sets recreated in LDraw.
+* [Lego sets made in LDraw](https://www.eurobricks.com/forum/index.php?/forums/topic/48285-key-topic-official-lego-sets-made-in-ldraw/) - Links to over 2000 LEGO sets recreated in LDraw.
+* [LDraw Official Model Repository](https://omr.ldraw.org/) - LDraw repository of over 1800 official LEGO sets. 
 * [BrickHub](https://brickhub.org/) - Almost 500 original and custom sets.
 
-## Manual Understanding
+## Assembling Models
 ### Papers
-* [Translating a Visual LEGO Manual to a Machine-Executable Plan [2022.07]](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
+* [Planning Assembly Sequence with Graph Transformer [2022.10]](https://arxiv.org/abs/2210.05236) - A graph-transformer based framework for ASP problem, with a heterogeneous graph attention network to encoder the models, which are decoded with the attention mechanism to generate assembly sequence.
+* [Translating a Visual LEGO Manual to a Machine-Executable Plan [2022.07]](https://cs.stanford.edu/~rcwang/projects/lego_manual/) - Understanding the assembly process using manual.
+* [Break and Make: Interactive Structural Understanding Using LEGO Bricks [2022.07]](https://arxiv.org/abs/2207.13738) - Introduction of a new task for visual understanding, 3D simulator to manipulate LEGO models, and a model to solve the proposed task of recreating the LEGO model.
+* [Building LEGO Using Deep Generative Models of Graphs [2020.12]](https://arxiv.org/abs/2012.11543) - It proposes a way to represent the LEGO model as graphs and learn how to generate them step-by-step.
+
+## ML at LEGO Group
+* [Building Blocks of Machine Learning at LEGO with Francesc Joan Riera [2021.11]](https://twimlai.com/podcast/twimlai/building-blocks-machine-learning-lego-francesc-joan-riera/) - Podcast about using ML at LEGO. In particular, their ML infrastructure, content moderation system, and classifying images of LEGO models into thematical categories. 
+
+## Other lists
+* [Awesome LEGO](https://github.com/ad-si/awesome-lego) - General list of LEGO resources.
