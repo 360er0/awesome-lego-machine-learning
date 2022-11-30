@@ -4,7 +4,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 ## Parts Classification
 ### Applications
 * [Brickognize [2022.12]](https://brickognize.com/) - Web application which recognizes any Lego part or set.
-* [BrickMonkey[2022.11]][https://brickmonkey.app/] - Mobile application to recognize minifig torsos.
+* [BrickMonkey[2022.11]](https://brickmonkey.app/) - Mobile application to recognize minifig torsos.
 * [RebrickNet [2022.01]](https://rebrickable.com/rebricknet/) - Web application on rebrickable.com. Currently, it detects and recognizes 300 different parts and an unspecified number of colors. Train using real videos and photos submitted by users.
 * [Minifig Finder [2021.12]](https://www.minifigfinder.com/) - Web application for minifig identification. Uses Mask R-CNN for detecting individual parts (head, torso, and legs) and metric learning for classification. Currently, it looks abandoned and not working.
 * [Unnamed mobile app [2021.10]](https://www.reddit.com/r/lego/comments/j7fzme/i_have_created_an_app_that_can_recognise_lego/), [Update 1 [2021.11]](https://www.reddit.com/r/lego/comments/jmsq5a/update_on_my_lego_recognition_app/), [Update 2 [2021.12]](https://www.reddit.com/r/lego/comments/k81z9g/update_about_my_lego_recognition_app_some/) - Unnamed and unreleased mobile app. Uses LDraw renders for training a classifier. The first version recognized only six different parts.
