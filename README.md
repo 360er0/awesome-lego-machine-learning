@@ -47,7 +47,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [LDraw Part Number Specification](https://www.ldraw.org/part-number-spec.html)
 * [Bricklink Item Numbers](https://www.bricklink.com/help.asp?helpID=168)
 
-## Generating Models
+## Generating Sets
 ### Papers
 * [Brick Yourself within 3 Minutes [2022.05]](https://air.tsinghua.edu.cn/en/Brick-Yourself-within-3-Minutes.pdf) - Given the input portrait, it uses several deep neural networks to extract the attributes to describe the human appearance shown in the image. Built on these attributes, the model generates the corresponding uncolored brick model by iteratively searching for brick components with the coordinate descent algorithm. Finally, it assigns a color to every brick to get the final brick model.
 * [Image2Lego: Customized LEGO® Set Generation from Images [2021.08]](https://arxiv.org/abs/2108.08477) - The system takes an image as an input, encodes it as embedding, generates a voxelized 3D model, and finally convert it into LEGO bricks. The model jointly trains a 3D model autoencoder and a 2D-to-3D encoder.
@@ -60,7 +60,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [LDraw Official Model Repository](https://omr.ldraw.org/) - LDraw repository of over 1800 official LEGO sets. 
 * [BrickHub](https://brickhub.org/) - Almost 500 original and custom sets.
 
-## Assembling Models
+## Assembling Sets
 ### Papers
 * [Planning Assembly Sequence with Graph Transformer [2022.10]](https://arxiv.org/abs/2210.05236) - A graph-transformer based framework for ASP problem, with a heterogeneous graph attention network to encoder the models, which are decoded with the attention mechanism to generate assembly sequence.
 * [Translating a Visual LEGO Manual to a Machine-Executable Plan [2022.07]](https://cs.stanford.edu/~rcwang/projects/lego_manual/) - Understanding the assembly process using manual.
