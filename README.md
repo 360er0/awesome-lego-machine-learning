@@ -13,7 +13,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Instabrick](https://www.instabrick.org/), [Kickstarter [2019.10]](https://www.kickstarter.com/projects/piqabrick/piqabrick/description), [Review [2021.04]](https://brickset.com/article/58811/review-instabrick-part-identification-system) - Camera and web application for part identification and inventory.
 
 ### Sorting Machines
-* [Universal LEGO Sorting Machine [2022.06]](https://www.youtube.com/watch?v=9OO0SsRy6FE) - 
+* [Universal LEGO Sorting Machine [2022.06]](https://www.youtube.com/watch?v=9OO0SsRy6FE), [Description](https://www.robotminor.nl/the-lego-sorter-bsl-bricks/) - Sorting machine built for BSL Bricks store.
 * [The World's First Universal LEGO Sorting Machine [2019.12]](https://www.youtube.com/watch?v=04JkdHEX3Yk), [Classifier [2019.12]](https://www.youtube.com/watch?v=-UGl0ZOCgwQ), [Dataset [2019.03]](https://medium.com/towards-data-science/how-i-created-over-100-000-labeled-lego-training-images-ec74191bb4ef), [CV Pipeline [2019.08]](https://towardsdatascience.com/a-high-speed-computer-vision-pipeline-for-the-universal-lego-sorting-machine-253f5a690ef4) - Sorting machine built by Daniel West.
 * [Lego Sorter using TensorFlow on Raspberry Pi [2018.09]](https://medium.com/@pacogarcia3/tensorflow-on-raspbery-pi-lego-sorter-ab60019dcf32) - Sorting machine that recognizes 11 different parts.
 * [Automatic Lego Sorting Machine](https://www.ceias.nau.edu/capstone/projects/ME/2019/19S1_LegoB/Final%20Report%201.pdf) - Students' report containing the design of the sorting machine. Mostly related to the mechanical side of the machine.
