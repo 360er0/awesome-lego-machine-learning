@@ -11,21 +11,27 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Brickit [2021.07]](https://brickit.app/) - Mobile application for detecting parts and suggesting models which can be built from those parts. 
 * [Brickly [2021.04]](https://www.facebook.com/bricklyapp) - Unfinished and unreleased app for part detection and identification.
 * [Instabrick](https://www.instabrick.org/), [Kickstarter [2019.10]](https://www.kickstarter.com/projects/piqabrick/piqabrick/description), [Review [2021.04]](https://brickset.com/article/58811/review-instabrick-part-identification-system) - Camera and web application for part identification and inventory.
+* [BrickBanker [2020.12]](https://www.brickbanker.com/) - Mobile application which detects up to 2k different parts.
 
 ### Sorting Machines
+* [Nexus [2023.03]](https://github.com/spencerhhubert/nexus) - Open-source sorting machine with CAD designs and code available.
 * [Standard Sorter v1.0 [2023.01]](https://www.thirdarmrobotics.com/q_and_a.html) - The robotic arm that can sort based on color and/or size.
 * [Big Robot [2022.06]](https://www.youtube.com/watch?v=Uj8ePOJEUdU) - Initiative to build Lego AI Open Source Sorting Machine.
 * [Universal LEGO Sorting Machine [2022.06]](https://www.youtube.com/watch?v=9OO0SsRy6FE), [Description](https://www.robotminor.nl/the-lego-sorter-bsl-bricks/) - Sorting machine built for BSL Bricks store.
 * [Deep Learning Lego Sorter [2021.11]](https://www.streamhead.com/3d%20printing/ai/2021/11/01/deep-learning-lego-sorting.html) - A sorting machine built from Lego with instruction and code available.
+* [Lego Automatic Sorting LegoLAS 2.0 [2021.08]](https://www.youtube.com/watch?v=sCfN5LrUlKc), [Description (in German)](https://github.com/LegoAS/LegoAS), [CAD](https://cad.onshape.com/documents/987d7bcb5ba09db685ee5959/w/9b6ee89cc72c5f3be05c2815/e/2b4e90a536956ffc8c740721) - Student project in the Laboratory for Computer Science in Engineering and Computational Mathematics.
 * [DISBY Sorting Machine [2021.01]](https://rbtx.com/en/solutions/disby-first-automatic-lego-bricks-sorting-system) - DISBY is the world's first automated Lego brick sorting system. It features a novel AI system that recognizes bricks based on a minimal formal description retrieved from the internet (e.g. size, weight, and description).
 * [The World's First Universal LEGO Sorting Machine [2019.12]](https://www.youtube.com/watch?v=04JkdHEX3Yk), [Classifier [2019.12]](https://www.youtube.com/watch?v=-UGl0ZOCgwQ), [Dataset [2019.03]](https://medium.com/towards-data-science/how-i-created-over-100-000-labeled-lego-training-images-ec74191bb4ef), [CV Pipeline [2019.08]](https://towardsdatascience.com/a-high-speed-computer-vision-pipeline-for-the-universal-lego-sorting-machine-253f5a690ef4) - Sorting machine built by Daniel West.
+* [The Shape Sifter [2019.06]](https://github.com/Spongeloaf/the-shape-sifter), [Blog](https://mt_pages.silvrback.com/) - The Shape Sifter is a Lego sorting machine utilizing a neural network, image processing software, a conveyor belt, and air jets. 
 * [Lego Sorter using TensorFlow on Raspberry Pi [2018.09]](https://medium.com/@pacogarcia3/tensorflow-on-raspbery-pi-lego-sorter-ab60019dcf32) - Sorting machine that recognizes 11 different parts.
+* [Letzgo Sorter [2018.01]](https://www.youtube.com/watch?v=Evo4AtPlvPM) - Sorting machine built for Letzgo company. There are few more videos available but not much details.
 * [Automatic Lego Sorting Machine](https://www.ceias.nau.edu/capstone/projects/ME/2019/19S1_LegoB/Final%20Report%201.pdf) - Students' report containing the design of the sorting machine. Mostly related to the mechanical side of the machine.
 * [Sorting 2 Metric Tons of Lego [2017.04]](https://jacquesmattheij.com/sorting-two-metric-tons-of-lego/), [Software Side [2017.05]](https://jacquesmattheij.com/sorting-lego-the-software-side/) - One of the first publically described sorter that uses ML for part classification. 
 
 ### Code
 * [OpenBlok [2022.11]](https://github.com/blokbot-io/OpenBlok) - OpenBlok is an open-source Lego identification and sorting system using AI models developed by blokbot.io
 * [Lego Brick Recognition [2020.03]](https://github.com/jtheiner/LegoBrickClassification) - Code for generating synthetic dataset and training a classifier for 15 different parts.
+* [Lego Classifier [2019.08]](https://ladvien.com/lego-deep-learning-classifier/) - Detailed description of training a part classifier and deploying it on Arduino.
 * [Lego Detector [2019.03]](https://github.com/kirill-sidorchuk/lego_detector) - Code for training a classifer.
 
 ### Papers
