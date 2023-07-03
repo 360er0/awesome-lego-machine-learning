@@ -4,6 +4,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 ## Parts Classification
 ### Applications
 * [Brickognize [2022.12]](https://brickognize.com/), [Talk from the author [2022.07]](https://www.youtube.com/watch?v=bzyG4Wf1Nkc) - Web application which recognizes any Lego part, minifigure, or set.
+* [Bricksee [2022.11]](https://www.bricksee.app/) - Mobile application for organizing a Lego collection with a feature to detect parts from a photo.
 * [BrickMonkey [2022.11]](https://brickmonkey.app/) - Mobile application to recognize minifig torsos.
 * [RebrickNet [2022.01]](https://rebrickable.com/rebricknet/) - Web application on rebrickable.com. Currently, it detects and recognizes 300 different parts and an unspecified number of colors. Train using real videos and photos submitted by users.
 * [Minifig Finder [2021.12]](https://www.minifigfinder.com/) - Web application for minifig identification. Uses Mask R-CNN for detecting individual parts (head, torso, and legs) and metric learning for classification. Currently, it looks abandoned and not working.
@@ -24,7 +25,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [The World's First Universal LEGO Sorting Machine [2019.12]](https://www.youtube.com/watch?v=04JkdHEX3Yk), [Classifier [2019.12]](https://www.youtube.com/watch?v=-UGl0ZOCgwQ), [Dataset [2019.03]](https://medium.com/towards-data-science/how-i-created-over-100-000-labeled-lego-training-images-ec74191bb4ef), [CV Pipeline [2019.08]](https://towardsdatascience.com/a-high-speed-computer-vision-pipeline-for-the-universal-lego-sorting-machine-253f5a690ef4) - Sorting machine built by Daniel West.
 * [The Shape Sifter [2019.06]](https://github.com/Spongeloaf/the-shape-sifter), [Blog](https://mt_pages.silvrback.com/) - The Shape Sifter is a Lego sorting machine utilizing a neural network, image processing software, a conveyor belt, and air jets. 
 * [Lego Sorter using TensorFlow on Raspberry Pi [2018.09]](https://medium.com/@pacogarcia3/tensorflow-on-raspbery-pi-lego-sorter-ab60019dcf32) - Sorting machine that recognizes 11 different parts.
-* [Letzgo Sorter [2018.01]](https://www.youtube.com/watch?v=Evo4AtPlvPM) - Sorting machine built for Letzgo company. There are few more videos available but not much details.
+* [Letzgo Sorter [2018.01]](https://www.youtube.com/watch?v=Evo4AtPlvPM) - Sorting machine built for Letzgo company. There are a few more videos available but not many details.
 * [Automatic Lego Sorting Machine](https://www.ceias.nau.edu/capstone/projects/ME/2019/19S1_LegoB/Final%20Report%201.pdf) - Students' report containing the design of the sorting machine. Mostly related to the mechanical side of the machine.
 * [Sorting 2 Metric Tons of Lego [2017.04]](https://jacquesmattheij.com/sorting-two-metric-tons-of-lego/), [Software Side [2017.05]](https://jacquesmattheij.com/sorting-lego-the-software-side/) - One of the first publically described sorter that uses ML for part classification. 
 
@@ -38,7 +39,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Brickinspector [2023.02]](https://www.tramacsoft.com/brickinspector/), [Paper](https://www.mdpi.com/1424-8220/23/4/1898) - The paper describes the process of using synthetic data for training semantic segmentation model for detecting Lego parts.
 * [How to sort them? A network for LEGO bricks classification [2022.07]](https://www.iccs-meeting.org/archive/iccs2022/papers/133520608.pdf) - The paper presents a comparison of 28 models used for image classification trained to recognize 447 different LEGO bricks.
 * [Hierarchical 2-step neural-based LEGO bricks detection and labeling [2021.04]](https://mostwiedzy.pl/en/publication/hierarchical-2-step-neural-based-lego-bricks-detection-and-labeling,155119-1) - The paper proposes two-step system for identifying LEGO bricks -- detection and classification. The model is limited to recognizing only 10 different parts.
-* [Lego Recognition Tool [2018.03]](https://robo4you.at/publications/Lego.pdf) - The diploma thesis that describes the process to develop a machine, which is capable of identifying Lego bricks and sorting them into boxes.
+* [Lego Recognition Tool [2018.03]](https://robo4you.at/publications/Lego.pdf) - The diploma thesis describing the process to develop a machine, which is capable of identifying Lego bricks and sorting them into boxes.
 
 ### Datasets
 * [Video of LEGO bricks on conveyor belt [2022.01]](https://mostwiedzy.pl/en/open-research-data-series/video-of-lego-bricks-on-conveyor-belt,202011132226557715481-0/catalog) - The dataset contains videos of LEGO bricks moving on a white conveyor belt to train a classifier for sorting machine.
@@ -77,7 +78,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ## Assembling Sets
 ### Papers
-* [Planning Assembly Sequence with Graph Transformer [2022.10]](https://arxiv.org/abs/2210.05236) - A graph-transformer based framework for ASP problem, with a heterogeneous graph attention network to encoder the models, which are decoded with the attention mechanism to generate assembly sequence.
+* [Planning Assembly Sequence with Graph Transformer [2022.10]](https://arxiv.org/abs/2210.05236) - A graph transformer-based framework for ASP problem, with a heterogeneous graph attention network to encoder the models, which are decoded with the attention mechanism to generate assembly sequence.
 * [Translating a Visual LEGO Manual to a Machine-Executable Plan [2022.07]](https://cs.stanford.edu/~rcwang/projects/lego_manual/) - Understanding the assembly process using manual.
 * [Break and Make: Interactive Structural Understanding Using LEGO Bricks [2022.07]](https://arxiv.org/abs/2207.13738) - Introduction of a new task for visual understanding, 3D simulator to manipulate LEGO models, and a model to solve the proposed task of recreating the LEGO model.
 * [Building LEGO Using Deep Generative Models of Graphs [2020.12]](https://arxiv.org/abs/2012.11543) - It proposes a way to represent the LEGO model as graphs and learn how to generate them step-by-step.
@@ -85,10 +86,12 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 ## Generating images of LEGO
 ### Posts
 * [Reimagining LEGO sets [2023.03]](https://brickset.com/article/92515/reimagining-lego-sets) - Generating realistic versions of LEGO sets.
+* [LEGO Stable Diffusion [2023.01]](https://github.com/MichWozPol/LEGO_StableDiffusion) - Fine-tuned stable diffusion model for generating images in the LEGO style.
 * [Generating LEGO Pirates sets and minifigures [2023.01]](https://www.eurobricks.com/forum/index.php?/forums/topic/193551-i-fed-an-ai-image-generator-with-lego-pirate-prompts-and-this-is-what-happened-lots-of-images/) - Generating LEGO Pirates sets and minifigures using Stable Diffusion.
 * [Using AI to generate minifigures [2020.07]](https://brickset.com/article/52483/using-ai-to-generate-minifigures), [Part 2 [2020.08]](https://brickset.com/article/53051/using-ai-to-generate-minifigures-part-2), [Part 3 [2020.08]](https://brickset.com/article/63365/using-ai-to-generate-minifigures-part-3) - Using different GANs to generate images of minifigures.
 
 ## ML at LEGO Group
+* [AI Summit London: Lego’s Brian Schwab on Interaction Design [2023.06]](https://www.youtube.com/watch?v=DaactYVgEVQ) - A short talk with Brian Schwab without many details about the augmented reality for playing with Lego bricks.
 * [A One-Stop Data Shop: The Lego Group’s Anders Butzbach Christensen [2023.03]](https://sloanreview.mit.edu/audio/a-one-stop-data-shop-the-lego-groups-anders-butzbach-christensen/) - Podcast (and transcript) about LEGO data platform.
 * [How LEGO plays with data: An interview with chief data officer Orlando Machado [2022.12]](https://www.mckinsey.com/capabilities/quantumblack/our-insights/how-lego-plays-with-data-an-interview-with-chief-data-officer-orlando-machado)
 * [Inside the annual LEGO Brick Hack [2022.11]](https://www.lego.com/en-gb/careers/stories/inside-the-annual-lego-brick-hack) - Short description of internal Data Science hackathon.
