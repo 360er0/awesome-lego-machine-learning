@@ -65,7 +65,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Bricklink Item Numbers](https://www.bricklink.com/help.asp?helpID=168)
 
 ### Posts
-* [LEGO Sorting Machines - an Overview [2023.08]](https://bricksortingmachine.blogspot.com/2023/08/lego-sorting-machines-overview.html) - Analazing the mechanical design of a broad range of existing LEGO sorting machines
+* [LEGO Sorting Machines - an Overview [2023.08]](https://bricksortingmachine.blogspot.com/2023/08/lego-sorting-machines-overview.html) - Analyzing the mechanical design of a broad range of existing LEGO sorting machines
 
 ## Generating Sets
 ### Papers
