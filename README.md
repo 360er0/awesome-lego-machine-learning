@@ -15,7 +15,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [BrickBanker [2020.12]](https://www.brickbanker.com/) - Mobile application which detects up to 2k different parts.
 
 ### Sorting Machines
-* BrickSortingMachine [2023.08]](https://www.youtube.com/@BrickSortingMachine), [Description](https://bricksortingmachine.blogspot.com/2023/09/the-lego-sorting-machine.html) - A LEGO brick sorting machine
+* [BrickSortingMachine [2023.08]](https://www.youtube.com/@BrickSortingMachine), [Description](https://bricksortingmachine.blogspot.com/2023/09/the-lego-sorting-machine.html) - A LEGO brick sorting machine
 * [Nexus [2023.03]](https://github.com/spencerhhubert/nexus) - Open-source sorting machine with CAD designs and code available.
 * [Standard Sorter v1.0 [2023.01]](https://www.thirdarmrobotics.com/q_and_a.html) - The robotic arm that can sort based on color and/or size.
 * [Big Robot [2022.06]](https://www.youtube.com/watch?v=Uj8ePOJEUdU) - Initiative to build Lego AI Open Source Sorting Machine.
