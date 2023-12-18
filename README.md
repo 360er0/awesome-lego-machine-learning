@@ -36,6 +36,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [JetClean [2022.10]](https://developer.nvidia.com/embedded/community/jetson-projects/jetclean) - JetClean is a small robotic Lego cleaner capable of autonomously navigating around your bedroom and keeping it tidy!
 
 ### Code
+* [LegoSorter [2023.09]](https://github.com/LegoSorter) - Code for a mobile app that can recognize and count Lego bricks. It includes scripts for rendering the dataset, training the model, and the backend for the app.
 * [OpenBlok [2022.11]](https://github.com/blokbot-io/OpenBlok) - OpenBlok is an open-source Lego identification and sorting system using AI models developed by blokbot.io
 * [Lego Brick Recognition [2020.03]](https://github.com/jtheiner/LegoBrickClassification) - Code for generating synthetic dataset and training a classifier for 15 different parts.
 * [Lego Classifier [2019.08]](https://ladvien.com/lego-deep-learning-classifier/) - Detailed description of training a part classifier and deploying it on Arduino.
