@@ -49,6 +49,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Lego Recognition Tool [2018.03]](https://robo4you.at/publications/Lego.pdf) - The diploma thesis describing the process to develop a machine, which is capable of identifying Lego bricks and sorting them into boxes.
 
 ### Datasets
+* [Photos and rendered images of LEGO bricks [2023.11]](https://www.nature.com/articles/s41597-023-02682-2) - The paper describes a collection of datasets containing both LEGO brick renders and real photos. The datasets contain around 155,000 photos and nearly 1,500,000 renders.
 * [Video of LEGO bricks on conveyor belt [2022.01]](https://mostwiedzy.pl/en/open-research-data-series/video-of-lego-bricks-on-conveyor-belt,202011132226557715481-0/catalog) - The dataset contains videos of LEGO bricks moving on a white conveyor belt to train a classifier for sorting machine.
 * [B200C LEGO Classification Dataset [2021.08]](https://www.kaggle.com/datasets/ronanpickell/b200c-lego-classification-dataset), [Code](https://github.com/korra-pickell/LEGO-Classification-Dataset) - Dataset for parts classification. It contains 800k high-quality renders for 200 different parts.
 * [LEGO bricks for training classification network [2021.06]](https://mostwiedzy.pl/en/open-research-data/lego-bricks-for-training-classification-network,618104539639776-0) - The dataset part classification. It contains images of 447 different parts, both real photos (52k) and renders (567k). 
