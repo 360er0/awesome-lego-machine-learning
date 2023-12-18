@@ -59,9 +59,10 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Lego Renderer for ML Projects [2020.01]](https://github.com/WHSnyder/LegoTrainingRenderer) - A set of Python scripts/Blender utilities for rendering Lego scenes for use in deep learning/computer vision projects. Includes a basic scene with a tracked camera, scripts for rendering images, normals, masks of Lego combinations, and utilities for recording the positions of special features on different pieces (studs, corners, holes) easily.
 * [Rendering LDraw Parts Images for Rebrickable [2018.10]](https://bricksafe.com/files/Simon/guide/guide.html) - Comprehensive guide describing how Rebrickable rendered their images.
 
-### Understanding Part Ids
+### Understanding Part IDs and colors
 * [Rebrickable numbering [2023.02]](https://rebrickable.com/help/part-numbering/)
 * [Understanding LEGO part numbers [2020.10]](https://brickset.com/article/54327/understanding-lego-part-numbers)
+* [The curious case of LEGO colors [2016.09]](https://www.bartneck.de/2016/09/09/the-curious-case-of-lego-colors/) - This post explores the difficulty of defining the exact LEGO color palette. I discuss the various lists, conversions and color systems.
 * [Let's talk about classification of parts](https://swooshable.com/parts/classification)
 * [LDraw Part Number Specification](https://www.ldraw.org/part-number-spec.html)
 * [Bricklink Item Numbers](https://www.bricklink.com/help.asp?helpID=168)
