@@ -96,6 +96,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Using AI to generate minifigures [2020.07]](https://brickset.com/article/52483/using-ai-to-generate-minifigures), [Part 2 [2020.08]](https://brickset.com/article/53051/using-ai-to-generate-minifigures-part-2), [Part 3 [2020.08]](https://brickset.com/article/63365/using-ai-to-generate-minifigures-part-3) - Using different GANs to generate images of minifigures.
 
 ## ML at LEGO Group
+* [Building a GenAI Solution — A Hackathon Success Story! [2023.11]](https://medium.com/lego-engineering/a-hackathon-success-story-using-generative-ai-f99ae4f09d88) - Description of the winning project of the internal Generative AI Hackathon at the LEGO Group. It focuses on generating a set description based on metadata and an image.
 * [AI Summit London: Lego’s Brian Schwab on Interaction Design [2023.06]](https://www.youtube.com/watch?v=DaactYVgEVQ) - A short talk with Brian Schwab without many details about the augmented reality for playing with Lego bricks.
 * [A One-Stop Data Shop: The Lego Group’s Anders Butzbach Christensen [2023.03]](https://sloanreview.mit.edu/audio/a-one-stop-data-shop-the-lego-groups-anders-butzbach-christensen/) - Podcast (and transcript) about LEGO data platform.
 * [How LEGO plays with data: An interview with chief data officer Orlando Machado [2022.12]](https://www.mckinsey.com/capabilities/quantumblack/our-insights/how-lego-plays-with-data-an-interview-with-chief-data-officer-orlando-machado)
