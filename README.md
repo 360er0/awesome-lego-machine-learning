@@ -94,6 +94,10 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Building LEGO Using Deep Generative Models of Graphs [2020.12]](https://arxiv.org/abs/2012.11543) - It proposes a way to represent the LEGO model as graphs and learn how to generate them step-by-step.
 
 ## Generating images of LEGO
+### Models
+* [Lego Minifig XL [2023.08]](https://huggingface.co/nerijs/lego-minifig-xl) - Stable Diffusion model for generating Minifigures.
+* [Lego Brickheadz XL [2023.09]](https://huggingface.co/nerijs/lego-brickheadz-xl) - Stable Diffusion model for generating Brickheadz.
+
 ### Posts
 * [The AI Revolution: How Artificial Intelligence Is Impacting the LEGO Community [2023.11]](https://bricknerd.com/home/the-ai-revolution-how-artificial-intelligence-is-impacting-the-lego-community-11-7-23) - The post discusses how AI-generated “LEGO” sets are sparking a debate between inspiration and imitation within the AFOL community.
 * [Reimagining LEGO sets [2023.03]](https://brickset.com/article/92515/reimagining-lego-sets) - Generating realistic versions of LEGO sets.
