@@ -15,7 +15,9 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [BrickBanker [2020.12]](https://www.brickbanker.com/) - Mobile application which detects up to 2k different parts.
 
 ### Sorting Machines
-* [BrickSortingMachine [2023.08]](https://www.youtube.com/@BrickSortingMachine), [Description](https://bricksortingmachine.blogspot.com/2023/09/the-lego-sorting-machine.html) - A LEGO brick sorting machine
+* [DIY LEGO Sorting Machine Backgrounds on design choices [2023.12]](https://medium.com/@bricksortingmachine/diy-lego-sorting-machine-a4227e61221d) - The article looks into the details and individual components of our specific sorting machine, explaining the rationale behind various design decisions
+* [Exploring LEGO Sorting Machines: A Survey of Designs [2023.12]](https://medium.com/@bricksortingmachine/lego-sorting-machine-overview-d390645759f9) - The article provides a comprehensive overview of the wide range of existing LEGO sorting machines.
+* [BrickSortingMachine [2023.08]](https://www.youtube.com/@BrickSortingMachine), [Blog](https://medium.com/@bricksortingmachine) - A LEGO brick sorting machine.
 * [Nexus [2023.03]](https://github.com/spencerhhubert/nexus) - Open-source sorting machine with CAD designs and code available.
 * [Standard Sorter v1.0 [2023.01]](https://www.thirdarmrobotics.com/q_and_a.html) - The robotic arm that can sort based on color and/or size.
 * [Big Robot [2022.06]](https://www.youtube.com/watch?v=Uj8ePOJEUdU) - Initiative to build Lego AI Open Source Sorting Machine.
@@ -64,8 +66,6 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [LDraw Part Number Specification](https://www.ldraw.org/part-number-spec.html)
 * [Bricklink Item Numbers](https://www.bricklink.com/help.asp?helpID=168)
 
-### Posts
-* [LEGO Sorting Machines - an Overview [2023.08]](https://bricksortingmachine.blogspot.com/2023/08/lego-sorting-machines-overview.html) - Analyzing the mechanical design of a broad range of existing LEGO sorting machines
 
 ## Generating Sets
 ### Papers
