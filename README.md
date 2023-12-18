@@ -5,7 +5,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 ### Applications
 * [Brickognize [2022.12]](https://brickognize.com/), [Talk from the author [2022.07]](https://www.youtube.com/watch?v=bzyG4Wf1Nkc) - Web application which recognizes any Lego part, minifigure, or set.
 * [Bricksee [2022.11]](https://www.bricksee.app/) - Mobile application for organizing a Lego collection with a feature to detect parts from a photo.
-* [BrickMonkey [2022.11]](https://brickmonkey.app/) - Mobile application to recognize minifig torsos.
+* [BrickMonkey [2022.11]](https://brickmonkey.app/) - Mobile application to recognize minifig and parts.
 * [RebrickNet [2022.01]](https://rebrickable.com/rebricknet/) - Web application on rebrickable.com. Currently, it detects and recognizes 300 different parts and an unspecified number of colors. Train using real videos and photos submitted by users.
 * [Minifig Finder [2021.12]](https://www.minifigfinder.com/) - Web application for minifig identification. Uses Mask R-CNN for detecting individual parts (head, torso, and legs) and metric learning for classification. Currently, it looks abandoned and not working.
 * [Unnamed mobile app [2021.10]](https://www.reddit.com/r/lego/comments/j7fzme/i_have_created_an_app_that_can_recognise_lego/), [Update 1 [2021.11]](https://www.reddit.com/r/lego/comments/jmsq5a/update_on_my_lego_recognition_app/), [Update 2 [2021.12]](https://www.reddit.com/r/lego/comments/k81z9g/update_about_my_lego_recognition_app_some/) - Unnamed and unreleased mobile app. Uses LDraw renders for training a classifier. The first version recognized only six different parts.
@@ -31,6 +31,9 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Letzgo Sorter [2018.01]](https://www.youtube.com/watch?v=Evo4AtPlvPM) - Sorting machine built for Letzgo company. There are a few more videos available but not many details.
 * [Automatic Lego Sorting Machine](https://www.ceias.nau.edu/capstone/projects/ME/2019/19S1_LegoB/Final%20Report%201.pdf) - Students' report containing the design of the sorting machine. Mostly related to the mechanical side of the machine.
 * [Sorting 2 Metric Tons of Lego [2017.04]](https://jacquesmattheij.com/sorting-two-metric-tons-of-lego/), [Software Side [2017.05]](https://jacquesmattheij.com/sorting-lego-the-software-side/) - One of the first publically described sorter that uses ML for part classification. 
+
+### Other projects
+* [JetClean [2022.10]](https://developer.nvidia.com/embedded/community/jetson-projects/jetclean) - JetClean is a small robotic Lego cleaner capable of autonomously navigating around your bedroom and keeping it tidy!
 
 ### Code
 * [OpenBlok [2022.11]](https://github.com/blokbot-io/OpenBlok) - OpenBlok is an open-source Lego identification and sorting system using AI models developed by blokbot.io
