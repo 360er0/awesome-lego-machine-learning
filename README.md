@@ -95,6 +95,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ## Generating images of LEGO
 ### Posts
+* [The AI Revolution: How Artificial Intelligence Is Impacting the LEGO Community [2023.11]](https://bricknerd.com/home/the-ai-revolution-how-artificial-intelligence-is-impacting-the-lego-community-11-7-23) - The post discusses how AI-generated “LEGO” sets are sparking a debate between inspiration and imitation within the AFOL community.
 * [Reimagining LEGO sets [2023.03]](https://brickset.com/article/92515/reimagining-lego-sets) - Generating realistic versions of LEGO sets.
 * [LEGO Stable Diffusion [2023.01]](https://github.com/MichWozPol/LEGO_StableDiffusion) - Fine-tuned stable diffusion model for generating images in the LEGO style.
 * [Generating LEGO Pirates sets and minifigures [2023.01]](https://www.eurobricks.com/forum/index.php?/forums/topic/193551-i-fed-an-ai-image-generator-with-lego-pirate-prompts-and-this-is-what-happened-lots-of-images/) - Generating LEGO Pirates sets and minifigures using Stable Diffusion.
