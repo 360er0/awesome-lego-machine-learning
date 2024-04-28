@@ -47,14 +47,15 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Brickinspector [2023.02]](https://www.tramacsoft.com/brickinspector/), [Paper](https://www.mdpi.com/1424-8220/23/4/1898) - The paper describes the process of using synthetic data for training semantic segmentation model for detecting Lego parts.
 * [How to sort them? A network for LEGO bricks classification [2022.07]](https://www.iccs-meeting.org/archive/iccs2022/papers/133520608.pdf) - The paper presents a comparison of 28 models used for image classification trained to recognize 447 different LEGO bricks.
 * [Hierarchical 2-step neural-based LEGO bricks detection and labeling [2021.04]](https://mostwiedzy.pl/en/publication/hierarchical-2-step-neural-based-lego-bricks-detection-and-labeling,155119-1) - The paper proposes two-step system for identifying LEGO bricks -- detection and classification. The model is limited to recognizing only 10 different parts.
-* [Lego Recognition Tool [2018.03]](https://robo4you.at/publications/Lego.pdf) - The diploma thesis describing the process to develop a machine, which is capable of identifying Lego bricks and sorting them into boxes.
+* [Lego Recognition Tool [2018.03]](https://robo4you.at/publications/Lego.pdf) - The diploma thesis describes the process of developing a machine, that is capable of identifying Lego bricks and sorting them into boxes.
 
 ### Datasets
+* [B200 LEGO Detection Dataset [2024.03]](https://www.kaggle.com/datasets/ronanpickell/b100-lego-detection-dataset) - Dataset for parts detection. It contains 2k high-quality renders for 200 different parts.
 * [Photos and rendered images of LEGO bricks [2023.11]](https://www.nature.com/articles/s41597-023-02682-2) - The paper describes a collection of datasets containing both LEGO brick renders and real photos. The datasets contain around 155,000 photos and nearly 1,500,000 renders.
 * [Video of LEGO bricks on conveyor belt [2022.01]](https://mostwiedzy.pl/en/open-research-data-series/video-of-lego-bricks-on-conveyor-belt,202011132226557715481-0/catalog) - The dataset contains videos of LEGO bricks moving on a white conveyor belt to train a classifier for sorting machine.
 * [B200C LEGO Classification Dataset [2021.08]](https://www.kaggle.com/datasets/ronanpickell/b200c-lego-classification-dataset), [Code](https://github.com/korra-pickell/LEGO-Classification-Dataset) - Dataset for parts classification. It contains 800k high-quality renders for 200 different parts.
 * [LEGO bricks for training classification network [2021.06]](https://mostwiedzy.pl/en/open-research-data/lego-bricks-for-training-classification-network,618104539639776-0) - The dataset part classification. It contains images of 447 different parts, both real photos (52k) and renders (567k). 
-* [Tagged images with LEGO bricks [2021.02]](https://mostwiedzy.pl/en/open-research-data/tagged-images-with-lego-bricks,209111650250426-0) - The dataset for parts detection. It contains 2933 photos and 2908 renders annotated with bounding boxes. It doesn't include information about part ids.
+* [Tagged images with LEGO bricks [2021.02]](https://mostwiedzy.pl/en/open-research-data/tagged-images-with-lego-bricks,209111650250426-0) - The dataset for parts detection. It contains 2933 photos and 2908 renders annotated with bounding boxes. It doesn't include information about part IDs.
 * [Lego Brick Sorting [2018.12]](https://www.kaggle.com/datasets/pacogarciam3/lego-brick-sorting-image-recognition) - The dataset for parts classification. It contains 4,580 photos of 20 different parts.
 * [Lego vs. Generic Brick [2018.12]](https://www.kaggle.com/datasets/pacogarciam3/lego-vs-generic-brick-image-recognition) - The dataset for recognizing original vs fake bricks. It contains 12 classes across 6 brick types, and more than 20k images taken by 4 cameras.
 
@@ -68,7 +69,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 ### Understanding Part IDs and colors
 * [Rebrickable numbering [2023.02]](https://rebrickable.com/help/part-numbering/)
 * [Understanding LEGO part numbers [2020.10]](https://brickset.com/article/54327/understanding-lego-part-numbers)
-* [The curious case of LEGO colors [2016.09]](https://www.bartneck.de/2016/09/09/the-curious-case-of-lego-colors/) - This post explores the difficulty of defining the exact LEGO color palette. I discuss the various lists, conversions and color systems.
+* [The curious case of LEGO colors [2016.09]](https://www.bartneck.de/2016/09/09/the-curious-case-of-lego-colors/) - This post explores the difficulty of defining the exact LEGO color palette. It discusses the various lists, conversions, and color systems.
 * [Let's talk about classification of parts](https://swooshable.com/parts/classification)
 * [LDraw Part Number Specification](https://www.ldraw.org/part-number-spec.html)
 * [Bricklink Item Numbers](https://www.bricklink.com/help.asp?helpID=168)
