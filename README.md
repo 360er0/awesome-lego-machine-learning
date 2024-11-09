@@ -61,6 +61,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Lego vs. Generic Brick [2018.12]](https://www.kaggle.com/datasets/pacogarciam3/lego-vs-generic-brick-image-recognition) - The dataset for recognizing original vs fake bricks. It contains 12 classes across 6 brick types, and more than 20k images taken by 4 cameras.
 
 ### Rendering Parts
+* [BrickRenderer [2023.06]](https://github.com/spencerhhubert/brick-renderer) -  Render realistic training images of ldraw pieces.
 * [Lego Rendering Pipeline [2023.06]](https://github.com/brianlow/lego-rendering) - Rendering pipeline for semi-realistic, individual parts.
 * [Lego multi object detection [2021.11]](https://github.com/mantyni/Multi-object-detection-lego) - Script to generate renders of LEGO parts and corresponding bounding boxes. Uses Python and Blender.
 * [BrickRegistration [2021.11]](https://github.com/GistNoesis/BrickRegistration) - A tool to generate synthetic 3d scenes with LEGO parts and their segmentation information.
