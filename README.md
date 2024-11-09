@@ -109,6 +109,10 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Generating LEGO Pirates sets and minifigures [2023.01]](https://www.eurobricks.com/forum/index.php?/forums/topic/193551-i-fed-an-ai-image-generator-with-lego-pirate-prompts-and-this-is-what-happened-lots-of-images/) - Generating LEGO Pirates sets and minifigures using Stable Diffusion.
 * [Using AI to generate minifigures [2020.07]](https://brickset.com/article/52483/using-ai-to-generate-minifigures), [Part 2 [2020.08]](https://brickset.com/article/53051/using-ai-to-generate-minifigures-part-2), [Part 3 [2020.08]](https://brickset.com/article/63365/using-ai-to-generate-minifigures-part-3) - Using different GANs to generate images of minifigures.
 
+## 3D Reconstruction
+### Papers
+* [MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices [2023.03]](https://arxiv.org/abs/2303.01932) -  A dataset of 153 Lego sets focusing on detailed 3D object reconstruction with a unique data modality of high-resolution RGB images with low-resolution depth maps captured on a mobile device.
+
 ## ML at LEGO Group
 * [Building a GenAI Solution — A Hackathon Success Story! [2023.11]](https://medium.com/lego-engineering/a-hackathon-success-story-using-generative-ai-f99ae4f09d88) - Description of the winning project of the internal Generative AI Hackathon at the LEGO Group. It focuses on generating a set description based on metadata and an image.
 * [AI Summit London: Lego’s Brian Schwab on Interaction Design [2023.06]](https://www.youtube.com/watch?v=DaactYVgEVQ) - A short talk with Brian Schwab without many details about the augmented reality for playing with Lego bricks.
