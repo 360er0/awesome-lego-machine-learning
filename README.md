@@ -21,6 +21,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [Lego Sorting Machine [2023.08]](https://www.instagram.com/lego.sorting.machine/) - Sorting machine [in progress].
 * [Nexus [2023.03]](https://github.com/spencerhhubert/nexus) - Open-source sorting machine with CAD designs and code available.
 * [Standard Sorter v1.0 [2023.01]](https://www.thirdarmrobotics.com/q_and_a.html) - The robotic arm that can sort based on color and/or size.
+* [Eppos Sorting Machine [2023.01]](https://www.youtube.com/watch?v=odtEyHnAT3Q) - Industrial sorting machine built for 3Bricks. 
 * [Big Robot [2022.06]](https://www.youtube.com/watch?v=Uj8ePOJEUdU) - Initiative to build Lego AI Open Source Sorting Machine.
 * [Universal LEGO Sorting Machine [2022.06]](https://www.youtube.com/watch?v=9OO0SsRy6FE), [Description](https://www.robotminor.nl/the-lego-sorter-bsl-bricks/) - Sorting machine built for BSL Bricks store.
 * [Deep Learning Lego Sorter [2021.11]](https://www.streamhead.com/3d%20printing/ai/2021/11/01/deep-learning-lego-sorting.html) - A sorting machine built from Lego with instruction and code available.
