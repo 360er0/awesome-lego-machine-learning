@@ -92,6 +92,7 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 
 ## Assembling Sets
 ### Papers
+* [Robotic LEGO Assembly and Disassembly from Human Demonstration [2023.05]](https://arxiv.org/abs/2305.15667) - This paper presents a system that automates LEGO assembly and disassembly by learning from human demonstration.
 * [Planning Assembly Sequence with Graph Transformer [2022.10]](https://arxiv.org/abs/2210.05236) - A graph transformer-based framework for ASP problem, with a heterogeneous graph attention network to encoder the models, which are decoded with the attention mechanism to generate assembly sequence.
 * [Translating a Visual LEGO Manual to a Machine-Executable Plan [2022.07]](https://cs.stanford.edu/~rcwang/projects/lego_manual/) - Understanding the assembly process using manual.
 * [Break and Make: Interactive Structural Understanding Using LEGO Bricks [2022.07]](https://arxiv.org/abs/2207.13738) - Introduction of a new task for visual understanding, 3D simulator to manipulate LEGO models, and a model to solve the proposed task of recreating the LEGO model.
