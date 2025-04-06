@@ -15,8 +15,8 @@ A curated list of resources dedicated to Machine Learning applications to LEGO b
 * [BrickBanker [2020.12]](https://www.brickbanker.com/) - Mobile application which detects up to 2k different parts.
 
 ### Sorting Machines
-* [DIY LEGO Sorting Machine Backgrounds on design choices [2023.12]](https://medium.com/@bricksortingmachine/diy-lego-sorting-machine-a4227e61221d) - The article looks into the details and individual components of our specific sorting machine, explaining the rationale behind various design decisions
-* [Exploring LEGO Sorting Machines: A Survey of Designs [2023.12]](https://medium.com/@bricksortingmachine/lego-sorting-machine-overview-d390645759f9) - The article provides a comprehensive overview of the wide range of existing LEGO sorting machines.
+* [DIY LEGO Sorting Machine Backgrounds on design choices [2023.12]](https://bricksortingmachine.com/diy-lego-sorting-machine) - The article looks into the details and individual components of our specific sorting machine, explaining the rationale behind various design decisions
+* [Exploring LEGO Sorting Machines: A Survey of Designs [2023.12]](https://bricksortingmachine.com/exploring-lego-sorting-machines-a-survey-of-designs) - The article provides a comprehensive overview of the wide range of existing LEGO sorting machines.
 * [BrickSortingMachine [2023.08]](https://www.youtube.com/@BrickSortingMachine), [Blog](https://medium.com/@BrickSortingMachine), [Code](https://github.com/BrickSortingMachine/BrickSortingMachine-sorter), [LEGO build instructions](https://github.com/BrickSortingMachine) - A LEGO brick sorting machine.
 * [Lego Sorting Machine [2023.08]](https://www.instagram.com/lego.sorting.machine/) - Sorting machine [in progress].
 * [Nexus [2023.03]](https://github.com/spencerhhubert/nexus) - Open-source sorting machine with CAD designs and code available.
